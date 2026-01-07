@@ -219,7 +219,65 @@ You can read the entire book in two ways:
 
 This work is licensed under [Creative Commons Attribution 4.0 International](https://creativecommons.org/licenses/by/4.0/).
 
-You are free to share and adapt this material for any purpose, even commercially, as long as you give appropriate credit.
+---
+
+## Connections
+
+<table>
+<tr>
+<td width="50%">
+
+### The companion book
+
+> *"El mejor final siempre acaba mal."*
+
+**[100 Días de una Vida](https://github.com/gamogestionweb/100-dias-de-una-vida)** is the poetic companion to this book. While "Are You There Reading?" asks if we control our destiny, "100 Días" shows a character named Abel choosing to live despite everything.
+
+Philosophy and poetry. Theory and experience.
+
+</td>
+<td width="50%">
+
+### The AI experiment
+
+What if we could test free will in AI agents?
+
+**[Genesis Simulation](https://github.com/gamogestionweb/genesis-simulation)** places AI agents in paradise with one prohibition. They chose to disobey. Was it free will or were they programmed to fall?
+
+</td>
+</tr>
+<tr>
+<td>
+
+### The physics of destiny
+
+If the present contains all information of past and future, is destiny real?
+
+**[PCP Universe](https://github.com/gamogestionweb/pcp-universe)** tests this on real IBM quantum computers. The preliminary results suggest information is never destroyed—only redistributed.
+
+</td>
+<td>
+
+### AI discovering truth
+
+**[Physics Discovery AI](https://github.com/gamogestionweb/physics-discovery-ai)** lets AI discover the laws of physics through experimentation. The laws already existed. Discovering them was inevitable.
+
+Just like reading this book. Was it chance? Or were you always going to find it?
+
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+
+### The personal AI
+
+**[Orion](https://play.google.com/store/apps/details?id=com.orion.proyectoorion)** — An AI that belongs to you. Legacy Mode lets you hear voices of those you've lost.
+
+The author who wrote about connection between strangers now builds technology to maintain connection across death.
+
+</td>
+</tr>
+</table>
 
 ---
 
