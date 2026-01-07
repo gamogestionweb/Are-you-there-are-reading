@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 1200" width="800" height="1200">
+  <!-- Background -->
+  <rect width="800" height="1200" fill="#000000"/>
+
+  <!-- Title -->
+  <text x="400" y="520"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="64"
+        font-weight="normal"
+        font-style="italic"
+        fill="#ffffff"
+        text-anchor="middle">
+    Are You There
+  </text>
+
+  <text x="400" y="600"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="64"
+        font-weight="normal"
+        font-style="italic"
+        fill="#ffffff"
+        text-anchor="middle">
+    Reading?
+  </text>
+
+  <!-- Subtle line -->
+  <line x1="300" y1="660" x2="500" y2="660" stroke="#333333" stroke-width="1"/>
+
+  <!-- Author -->
+  <text x="400" y="720"
+        font-family="Georgia, 'Times New Roman', serif"
+        font-size="24"
+        fill="#666666"
+        text-anchor="middle">
+    Daniel
+  </text>
+</svg>
