@@ -104,7 +104,7 @@ You can read the entire book in two ways:
 
 <p>
 <a href="mailto:gamogestionweb@gmail.com">Email</a> •
-<a href="https://www.tiktok.com/@sucesoshoy">TikTok</a> •
+<a href="https://www.tiktok.com/@danielgamo1992">TikTok</a> •
 <a href="https://github.com/gamogestionweb">GitHub</a>
 </p>
 </td>
